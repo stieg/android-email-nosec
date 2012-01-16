@@ -1,0 +1,24 @@
+Copyright (C) 2012 stieg under GNU GPL v2.
+
+This small bundle has the necessary binaries to setup email on your
+phone that ignores exchange security requirements.
+
+Mobile Requirements:
+* Your phone must have USB debugging enabled.
+* Your phone must be able to run untrusted apps.
+
+System Requirements:
+* i386 based linux system or x86_64 linux system capabale of running
+  32 bit binaries.
+* sudo access to root.
+* A USB port.
+
+Directions:
+* Download this code.
+* Plug your phone into the computer with the USB cable.
+** You should see the note about USB debugging being enabled.
+* Run setup.  That should do it.
+
+Problems:
+If you hit snags or have a quick patch, send me email at
+andrew <dot> stiegmann <at> gmail <dot> com.  Happy hacking!
